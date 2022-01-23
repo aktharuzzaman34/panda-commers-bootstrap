@@ -1,0 +1,22 @@
+.panda-bg-info{
+    background-color: #FEEAE9;
+}
+.catagoris img{
+    width: 100px;
+}
+.panda-catagoris-watch-bg{
+    background-color: #FF9C35;
+}
+.panda-catagoris-beg-bg{
+    background-color: #4289FF;
+}
+.panda-catagoris-shoes-bg{
+    background-color: #FF589B;
+}
+.panda-btn-buy-now{
+    background-image: linear-gradient(to bottom, #FF5898 0%, #ff4b92 100%);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
